@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqMethodSintaksa-EM", "LinqMethodSintaksa-EM\LinqMethodSintaksa-EM.csproj", "{09DD3D75-38D7-4E69-A0CF-CBC9A7F16B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DD3D75-38D7-4E69-A0CF-CBC9A7F16B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DD3D75-38D7-4E69-A0CF-CBC9A7F16B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DD3D75-38D7-4E69-A0CF-CBC9A7F16B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DD3D75-38D7-4E69-A0CF-CBC9A7F16B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A40D2A23-7AF7-4495-8DE8-FF25A162624C}
+	EndGlobalSection
+EndGlobal
